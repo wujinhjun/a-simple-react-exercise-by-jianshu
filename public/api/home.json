@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [
+            {
+                "id": 1,
+                "title": "社会热点",
+                "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/5055/348f9e194f4062a17f587e2963b7feb0b0a5a982.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            },
+            {
+                "id": 2,
+                "title": "手绘",
+                "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/5055/348f9e194f4062a17f587e2963b7feb0b0a5a982.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            }
+        ],
+    
+        "articleList": [
+            {
+                "id": 1,
+                "title": "林徽因的魅力，远不止美貌与学识",
+                "desc": "文/沐恩佳音 我曾经零零星星地看过或者听过林徽因的故事，从别人对她的解读和评价中，我知道被人称为民国女神的林徽因有着不俗的魅力。 我原本以为她的...",
+                "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/5055/348f9e194f4062a17f587e2963b7feb0b0a5a982.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            },
+            {
+                "id": 2,
+                "title": "林徽因的魅力，远不止美貌与学识",
+                "desc": "文/沐恩佳音 我曾经零零星星地看过或者听过林徽因的故事，从别人对她的解读和评价中，我知道被人称为民国女神的林徽因有着不俗的魅力。 我原本以为她的...",
+                "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/5055/348f9e194f4062a17f587e2963b7feb0b0a5a982.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            },
+            {
+                "id": 3,
+                "title": "林徽因的魅力，远不止美貌与学识",
+                "desc": "文/沐恩佳音 我曾经零零星星地看过或者听过林徽因的故事，从别人对她的解读和评价中，我知道被人称为民国女神的林徽因有着不俗的魅力。 我原本以为她的...",
+                "imgUrl": "https://upload.jianshu.io/admin_banners/web_images/5055/348f9e194f4062a17f587e2963b7feb0b0a5a982.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+            }
+        ],
+    
+        "recommendList": [
+            {
+                "id": 1,
+                "imgUrl": "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/banner-list.png"
+            },
+    
+            {
+                "id": 2,
+                "imgUrl": "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/banner-list-2.png"
+            },
+    
+            {
+                "id": 3,
+                "imgUrl": "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/banner-list-3.png"
+            },
+    
+            {
+                "id": 4,
+                "imgUrl": "https://raw.githubusercontent.com/wujinhjun/wujinhjun-pic/main/banner-list-4.png"
+            }
+        ]
+    }
+}
